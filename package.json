@@ -1,0 +1,17 @@
+{
+  "name": "my-first-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "hello": "echo Hi Immanuel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dayjs": "^1.11.23"
+  }
+}
